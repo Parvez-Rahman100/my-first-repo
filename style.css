@@ -10,5 +10,8 @@ h4{
     display: flex;
     width: 50%;
     height: 300px;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    border: 3px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
 }
