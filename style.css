@@ -6,8 +6,9 @@ h1{
 h4{
     color:orangered;
 }
-.ariana img{
-    width:300px;
-    margin-right: 500px;
-    
+.images{
+    display: flex;
+    width: 50%;
+    height: 300px;
+    justify-content: space-evenly;
 }
